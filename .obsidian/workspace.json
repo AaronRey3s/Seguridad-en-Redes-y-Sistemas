@@ -60,10 +60,14 @@
             "id": "be39f4ce0c3ad30d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "General Skills/Lets Warm Up.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lets Warm Up.md"
             }
           }
         ]
@@ -144,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plantilla.md",
+                "file": "General Skills/Lets Warm Up.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plantilla.md",
+                "file": "General Skills/Lets Warm Up.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -206,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plantilla.md",
+                "file": "General Skills/Lets Warm Up.md.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -233,13 +237,19 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "fe3e6a541af79254",
+  "active": "be39f4ce0c3ad30d",
   "lastOpenFiles": [
+    "Sin título.base",
+    "General Skills/Lets Warm Up.md.md",
+    "Plantilla.md",
+    "Sin título.md",
+    "Sin título 1.md",
+    "General Skills",
+    "Prueba.md",
     "Github/Llaves",
     "Github/Nueva carpeta",
     "Github",
     "Nueva carpeta",
-    "Plantilla.md",
     "README.md",
     "desktop.ini",
     "Bienvenido.md"
