@@ -111,7 +111,7 @@ AaronTank5-academy@webshell:~/drop-in$ git show e720dc2
 AaronTank5-academy@webshell:~/drop-in$ 
 
 ## Notas Adicionales
-
+Tuve que ver un video para recordar los comando git
 
 ## Referencias
 
