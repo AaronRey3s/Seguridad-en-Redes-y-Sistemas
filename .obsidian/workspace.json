@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tarea 1/10 - ASCIINumbers.md",
+                "file": "Web/4 - dont-use-client-side.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10 - ASCIINumbers"
+              "title": "4 - dont-use-client-side"
             }
           }
         ]
@@ -190,13 +190,20 @@
   },
   "active": "bc3976ad4b02fb04",
   "lastOpenFiles": [
+    "Plantilla.md",
+    "Web/4 - dont-use-client-side.md",
+    "Ubuntu VB.pdf",
+    "Sin título.md",
+    "Web/3 - logon.md",
+    "Web/2 - Whe are the robots.md",
+    "Web/1 - Insp3ct0r.md",
+    "Web",
+    "Tarea 1/10 - ASCIINumbers.md",
     "Tarea 1/9 - Binhexa.md",
     "Tarea 1/8 - Binary search.md",
     "Tarea 1/7 - Collaborative development.md",
     "Tarea 1/6 - Blame game.md",
     "Tarea 1/5 - Time Machine.md",
-    "Tarea 1/10 - ASCIINumbers.md",
-    "Plantilla.md",
     "Tarea 1/4 - committee issue.md",
     "Tarea 1/3 - Special.md",
     "Tarea 1/2 - chrono.md",
@@ -211,19 +218,12 @@
     "General Skills 3/4 - Convertme.md",
     "General Skills 3/3 - Codebook.md",
     "General Skills 3/2 - Runnme.md",
-    "General Skills 3/1 - Super SSH.md",
-    "Sin título.md",
-    "General Skills 1 y 2/20 - First Find.md.md",
     "General Skills 3",
-    "General Skills 1 y 2/19 - Big zip.md.md",
-    "General Skills 1 y 2/18 -  Repetitions.md.md",
-    "General Skills 1 y 2/17 - Magikarp round mission.md.md",
     "Sin título.base",
     "General Skills 1 y 2",
     "Github/Llaves",
     "Github/Nueva carpeta",
     "Github",
-    "Nueva carpeta",
-    "desktop.ini"
+    "Nueva carpeta"
   ]
 }
