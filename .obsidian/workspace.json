@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/4 - dont-use-client-side.md",
+                "file": "Web/6 - Client-side-again.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4 - dont-use-client-side"
+              "title": "6 - Client-side-again"
             }
           }
         ]
@@ -191,6 +191,8 @@
   "active": "bc3976ad4b02fb04",
   "lastOpenFiles": [
     "Plantilla.md",
+    "Web/6 - Client-side-again.md",
+    "Web/5 - picobowser.md",
     "Web/4 - dont-use-client-side.md",
     "Ubuntu VB.pdf",
     "Sin título.md",
@@ -217,7 +219,6 @@
     "General Skills 3/5 - fixme1.py.md",
     "General Skills 3/4 - Convertme.md",
     "General Skills 3/3 - Codebook.md",
-    "General Skills 3/2 - Runnme.md",
     "General Skills 3",
     "Sin título.base",
     "General Skills 1 y 2",
