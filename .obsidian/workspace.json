@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Actividad 13/what lies within.md",
+                "file": "Actividad 14/shark on wire 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "what lies within"
+              "title": "shark on wire 2"
             }
           }
         ]
@@ -190,13 +190,27 @@
   },
   "active": "bc3976ad4b02fb04",
   "lastOpenFiles": [
+    "Actividad 14/like1000.md",
+    "Actividad 14/c0rrupt.md",
+    "Actividad 14/m00nwalk.md",
+    "Actividad 14/WhitePages.md",
+    "Actividad 14/shark on wire 2.md",
     "Plantilla.md",
+    "Bienvenido.md",
+    "Actividad 14",
+    "Primer Examen Parcial/Python Wrangling.md",
+    "Primer Examen Parcial/HashingJobApp.md",
+    "Primer Examen Parcial/flag_shop.md",
+    "Primer Examen Parcial/FANTASY CTF.md",
+    "Primer Examen Parcial/dont-you-love-banners.md",
+    "Ubuntu VB.pdf",
+    "Sin título.md",
     "Actividad 13/what lies within.md",
+    "Primer Examen Parcial",
     "Actividad 13/Extensions.md",
     "Actividad 13/Shark on wire.md",
     "Actividad 13/Glory of the Garden.md",
     "Actividad 13/So meta.md",
-    "Sin título.md",
     "Actividad 13",
     "Tarea 2/5 Power cookie.md",
     "Tarea 2/6 Roboto Sans.md",
@@ -207,24 +221,10 @@
     "CIZLIA-LA (3)~B4242.tmp",
     "~$ZLIA-LAA.docx",
     "CIZLIA-LAA.docx",
-    "CIZLIA-LAA~4CE95.tmp",
-    "~$ZLIA-LA (2).docxx.docxx.docx",
-    "CIZLIA-LA (2).docxx.docxx.docx",
     "Web/5 - picobowser.md",
     "Web/4 - dont-use-client-side.md",
     "Web/3 - logon.md",
     "Web/2 - Whe are the robots.md",
-    "Web/1 - Insp3ct0r.md",
-    "Tarea 1/10 - ASCIINumbers.md",
-    "Tarea 1/9 - Binhexa.md",
-    "Tarea 1/8 - Binary search.md",
-    "Tarea 1/7 - Collaborative development.md",
-    "Tarea 1/6 - Blame game.md",
-    "Tarea 1/5 - Time Machine.md",
-    "Tarea 1/4 - committee issue.md",
-    "Tarea 1/3 - Special.md",
-    "Tarea 1/2 - chrono.md",
-    "Tarea 1/1 - permissions.md",
-    "General Skills 3/10 - Serpentine.md"
+    "Web/1 - Insp3ct0r.md"
   ]
 }
