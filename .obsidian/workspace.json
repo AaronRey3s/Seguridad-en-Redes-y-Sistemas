@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Actividad 14/shark on wire 2.md",
+                "file": "Primer Examen Parcial/Specialer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "shark on wire 2"
+              "title": "Specialer"
             }
           }
         ]
@@ -190,12 +190,17 @@
   },
   "active": "bc3976ad4b02fb04",
   "lastOpenFiles": [
+    "Primer Examen Parcial/SansAlpha.md",
+    "Primer Examen Parcial/Rust fixme 3.md",
+    "Primer Examen Parcial/Rust fixme 1.md",
+    "Primer Examen Parcial/Rust fixme 2.md",
+    "Primer Examen Parcial/Specialer.md",
+    "Plantilla.md",
+    "Actividad 14/shark on wire 2.md",
     "Actividad 14/like1000.md",
     "Actividad 14/c0rrupt.md",
     "Actividad 14/m00nwalk.md",
     "Actividad 14/WhitePages.md",
-    "Actividad 14/shark on wire 2.md",
-    "Plantilla.md",
     "Bienvenido.md",
     "Actividad 14",
     "Primer Examen Parcial/Python Wrangling.md",
@@ -220,11 +225,6 @@
     "CIZLIA-LA (3).docx",
     "CIZLIA-LA (3)~B4242.tmp",
     "~$ZLIA-LAA.docx",
-    "CIZLIA-LAA.docx",
-    "Web/5 - picobowser.md",
-    "Web/4 - dont-use-client-side.md",
-    "Web/3 - logon.md",
-    "Web/2 - Whe are the robots.md",
-    "Web/1 - Insp3ct0r.md"
+    "CIZLIA-LAA.docx"
   ]
 }
