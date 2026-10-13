@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Actividad 16/4 - Sleuthkit Apprentice.md",
+                "file": "Actividad 17/2- 13.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4 - Sleuthkit Apprentice"
+              "title": "2- 13"
             }
           }
         ],
@@ -205,14 +205,24 @@
   },
   "active": "557d7e497d066dcf",
   "lastOpenFiles": [
+    "Actividad 17/3- Caesar.md",
+    "Actividad 17/4- Easy1.md",
+    "Actividad 17/5- la cifra de.md",
+    "Actividad 17/6- Tapping.md",
+    "Actividad 17/7- waves over lambda.md",
+    "Actividad 17/8- interencdec.md",
+    "Actividad 17/2- 13.md",
+    "Actividad 17/1- The numbers.md",
+    "Plantilla.md",
+    "Sin título 1.md",
+    "Sin título.md",
+    "Actividad 17",
+    "Actividad 16/4 - Sleuthkit Apprentice.md",
     "Actividad 16/6 -  Operation Oni.md",
     "Actividad 16/5 - Operation Orchid.md",
-    "Actividad 16/4 - Sleuthkit Apprentice.md",
     "Actividad 16/3 - Sleuthkit Intro.md",
     "Actividad 16/2 - Disk, disk, sleuth!.md",
     "Actividad 16/1 - Milkslap.md",
-    "Plantilla.md",
-    "Sin título.md",
     "Actividad 16",
     "Actividad 15/MacroHard WeakEdge.md",
     "Actividad 15/Matryoshka doll.md",
@@ -224,22 +234,12 @@
     "Primer Examen Parcial/SSTI2.md",
     "Primer Examen Parcial/SSTI1.md",
     "Primer Examen Parcial/SQL Direct.md",
-    "Primer Examen Parcial/Python Wrangling.md",
-    "Primer Examen Parcial/n0s4n1ty 1.md",
-    "Primer Examen Parcial/Java Code Analysis.md",
-    "Primer Examen Parcial/head-dump.md",
-    "Primer Examen Parcial/findme.md",
-    "Primer Examen Parcial/Cookie Monster Secret Recipe.md",
-    "Primer Examen Parcial/Bookmarklet.md",
-    "Primer Examen Parcial/Specialer.md",
-    "Primer Examen Parcial/Rust fixme 1.md",
     "Actividad 14",
     "Ubuntu VB.pdf",
     "Primer Examen Parcial",
     "Actividad 13",
     "Tarea 2",
     "~$ZLIA-LA (3).docx",
-    "CIZLIA-LA (3).docx",
-    "CIZLIA-LA (3)~B4242.tmp"
+    "CIZLIA-LA (3).docx"
   ]
 }
